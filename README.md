@@ -5,7 +5,7 @@
  - [x] Reggie's Linear Regression (Python)
  - [x] Orion Constellation (Matplotlib)
 ##### To be Completed
- - [ ] Roller Coaster (Matplotlib)
+ - [x] Roller Coaster (Matplotlib)
 ### Challenges
 ##### Completed
  - [x] This is Jeopardy (Numpy)
