@@ -5,9 +5,10 @@
  - [x] Reggie's Linear Regression (Python)
  - [x] Orion Constellation (Matplotlib)
  - [x] Roller Coaster (Matplotlib)
- - [x] Life Expectancy and GDP (Data Visualization Capstone)
+ - [x] Netflix Stock Data (Data Visualization Capstone)
+ - [x] Kiva Data Visualization (Data Visualization Cumulative Project)
 ##### To be Completed
- - [ ] Netflix Stock Data (Data Visualization Capstone)
+ - [ ] Life Expectancy and GDP (Data Visualization Capstone)
 ### Challenges
 ##### Completed
  - [x] This is Jeopardy (Numpy)
