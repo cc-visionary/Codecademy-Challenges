@@ -4,8 +4,10 @@
 ##### Completed
  - [x] Reggie's Linear Regression (Python)
  - [x] Orion Constellation (Matplotlib)
-##### To be Completed
  - [x] Roller Coaster (Matplotlib)
+##### To be Completed
+ - [ ] Netflix Stock Data (Data Visualization Capstone)
+ - [ ] Life Expectancy and GDP (Data Visualization Capstone)
 ### Challenges
 ##### Completed
  - [x] This is Jeopardy (Numpy)
